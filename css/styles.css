@@ -1,0 +1,40 @@
+body {
+  background-color: #17223b;
+  font-family: 'Baloo Bhai 2', cursive;
+  text-align: center;
+}
+
+/* Top Section */
+.top {
+  color: white;
+  padding: 3rem;
+}
+
+.jester-img {
+  border-color: white;
+  border-radius: 100%;
+  border-width: 3px;
+  border-style: solid;
+  margin: 2rem 0;
+}
+
+.introduction {}
+
+.question {}
+
+.btn-tell-joke {
+  margin-top: 1rem;
+}
+
+/* Joke Section */
+
+.joke-card {
+  margin: 0 20% 5rem;
+  display: none;
+}
+
+.joke-text {
+  color: #263859;
+  font-family: 'Rokkitt', serif;
+  font-size: 2rem;
+}
